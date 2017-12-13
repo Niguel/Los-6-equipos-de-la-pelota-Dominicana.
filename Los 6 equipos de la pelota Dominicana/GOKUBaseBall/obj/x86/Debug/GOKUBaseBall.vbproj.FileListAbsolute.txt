@@ -1,0 +1,16 @@
+C:\Users\dell\AppData\Local\Temporary Projects\GOKUBaseBall\obj\x86\Debug\GOKUBaseBall.Resources.resources
+C:\Users\dell\AppData\Local\Temporary Projects\GOKUBaseBall\obj\x86\Debug\GOKUBaseBall.vbproj.GenerateResource.Cache
+C:\Users\dell\AppData\Local\Temporary Projects\GOKUBaseBall\bin\Debug\GOKUBaseBall.exe
+C:\Users\dell\AppData\Local\Temporary Projects\GOKUBaseBall\bin\Debug\GOKUBaseBall.pdb
+C:\Users\dell\AppData\Local\Temporary Projects\GOKUBaseBall\bin\Debug\GOKUBaseBall.xml
+C:\Users\dell\AppData\Local\Temporary Projects\GOKUBaseBall\obj\x86\Debug\GOKUBaseBall.exe
+C:\Users\dell\AppData\Local\Temporary Projects\GOKUBaseBall\obj\x86\Debug\GOKUBaseBall.xml
+C:\Users\dell\AppData\Local\Temporary Projects\GOKUBaseBall\obj\x86\Debug\GOKUBaseBall.pdb
+C:\Users\dell\Desktop\GOKUBaseBall\GOKUBaseBall\obj\x86\Debug\GOKUBaseBall.exe
+C:\Users\dell\Desktop\GOKUBaseBall\GOKUBaseBall\obj\x86\Debug\GOKUBaseBall.xml
+C:\Users\dell\Desktop\GOKUBaseBall\GOKUBaseBall\obj\x86\Debug\GOKUBaseBall.pdb
+C:\Users\dell\Desktop\GOKUBaseBall\GOKUBaseBall\bin\Debug\GOKUBaseBall.exe
+C:\Users\dell\Desktop\GOKUBaseBall\GOKUBaseBall\bin\Debug\GOKUBaseBall.pdb
+C:\Users\dell\Desktop\GOKUBaseBall\GOKUBaseBall\bin\Debug\GOKUBaseBall.xml
+C:\Users\dell\Desktop\GOKUBaseBall\GOKUBaseBall\obj\x86\Debug\GOKUBaseBall.Resources.resources
+C:\Users\dell\Desktop\GOKUBaseBall\GOKUBaseBall\obj\x86\Debug\GOKUBaseBall.vbproj.GenerateResource.Cache
